@@ -1,4 +1,4 @@
-# Small manual for install and setup dedicate CS2 server with eBot
+# Manual
 
 You will need a little knowledge of Linux and Source, as well as patience to install and configure your dedicated Counter-Strike server
 
