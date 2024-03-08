@@ -1,4 +1,6 @@
-## Small manual for install and setup dedicate CS2 server with eBot
+# Small manual for install and setup dedicate CS2 server with eBot
+
+You will need a little knowledge of Linux and Source, as well as patience to install and configure your dedicated Counter-Strike server
 
 * Download SteamCMD from https://developer.valvesoftware.com/wiki/Counter-Strike_2/Dedicated_Servers
 * Setup and copy server.cfg and msel.cfg to CFG Directory in Servers
